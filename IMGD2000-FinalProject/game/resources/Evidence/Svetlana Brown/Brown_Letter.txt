@@ -1,0 +1,19 @@
+depends:
+Svetlana Brown
+
+header:
+CITIZEN: Brown, Svetlana
+DATE: March 19, 1984
+
+INTERCEPTED LETTER
+content:
+Dear Cedric,
+
+I'm glad to hear Mother is on the mend. I've sent along a box of her favorite chocolates along with the usual package. I wasn't sure about the policies regarding sending edibles in foreign packages, but I hid them among the other things and no one at the post office seemed to notice.
+
+I'm a bit worried that Georg's reputation is rubbing off on me. I'm almost certain I heard someone mutter "Communist" under their breath as I passed them. But who am I to complain, when that movie he directed is so popular?
+
+Send along my love to Mother! I would appreciate it if you kept the Communist slander to yourself, though.
+
+Love,
+Svetlana

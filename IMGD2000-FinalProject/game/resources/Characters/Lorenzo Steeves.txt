@@ -1,0 +1,3 @@
+Occupation:Chef
+DOB: 12 December 1954
+Marital Status:Single

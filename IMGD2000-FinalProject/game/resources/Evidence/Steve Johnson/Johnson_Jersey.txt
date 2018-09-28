@@ -1,0 +1,28 @@
+depends:
+Steve Johnson
+
+header:
+CITIZEN: Johnson, Steve
+DATE: March 13, 1984
+
+PHONE TRANSCRIPT
+content:
+JOHNSON
+		Hey, man, what's up?
+
+MALE
+		I heard the news!
+		Congratulations on getting
+		those sports tickets!
+		The Cyber-Ducks
+		are the best.
+		
+JOHNSON
+		I can't wait! I'll be able
+		to see Wilson Clyde in person!
+		You know how many jerseys of
+		his I have, right?
+
+MALE
+		Too many is all I need to
+		know.

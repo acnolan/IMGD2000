@@ -1,0 +1,23 @@
+depends:
+Walter Eggleston
+
+header:
+CITIZEN: Eggleston, Walter
+DATE: April 2, 1984
+
+TRASACTION RECEIPT
+content:
+--------------------------------
+Vendor: One More Shot, Inc.
+Customer: Eggleston, Walter
+--------------------------------
+Item		 Quantity		Cost
+--------------------------------
+Rifle				1	 $159.99
+Bullets			  120	 $109.99
+
+--------------------------------
+Subtotal:				 $269.98
+Tax(0.35%):				  $94.49
+--------------------------------
+Total:				     $364.47

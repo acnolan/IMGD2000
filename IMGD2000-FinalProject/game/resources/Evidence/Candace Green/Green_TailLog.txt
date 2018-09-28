@@ -1,0 +1,12 @@
+depends:
+Candace Green
+
+header:
+CITIZEN: Green, Candace
+DATE: April 4, 1984
+
+TAIL LOG
+content:
+A field agent tailed Green to gain a better understanding of her routine. He followed her to a golf tournament, in which she placed second to last. She then returned to her place of residence. The curtains were drawn, so the agent was unable to see her actions within her home.
+
+Three hours later, a woman who resembled Green emerged, although her hair was a different color and length. She drove to the Fancy Eats Diner, a restaurant popular among international visitors and tourists, and met a middle-aged man and handed him a folder of papers.

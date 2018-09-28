@@ -1,0 +1,3 @@
+Occupation:Waitress
+DOB:14 June 1955
+Marital Status:Single

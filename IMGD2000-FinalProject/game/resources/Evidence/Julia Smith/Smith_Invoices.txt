@@ -1,0 +1,24 @@
+*NOTE: DRAFT*
+depends:
+Julia Smith
+
+header:
+CITIZEN: Smith, Julia
+DATE: March 29, 1984
+
+INCOMING FAX
+content:
+-----------------------------
+Dave's Butchery, Inc.
+-----------------------------
+Ms. Smith,
+This invoice is regarding
+your recent purchase from
+our corporation. Please
+see the charges below:
+-----------------------------
+Steak, 2.5 kilos	$3500.00
+Mutton, 3 kilos		$5000.00
+
+-----------------------------
+Total				$8500.00

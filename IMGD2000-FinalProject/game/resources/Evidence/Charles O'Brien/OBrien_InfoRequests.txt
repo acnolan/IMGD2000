@@ -1,0 +1,47 @@
+header:
+EMPLOYEE: O'Brien, Charles
+DATES: 4/1/1984 - 4/10-1984
+
+SURVEILLANCE REQUESTS
+content:
+Meghan Sullivan
+Terrance Ianson
+Christine Martinez
+Olga Salazar
+Robert Banks
+Christine Martinez
+Julia Smith
+Georg Sieland
+Ray May
+Christine Martinez
+Randy Murray
+Georg Sieland
+Svetlana Brown
+Julia Smith
+Terry Hoffman
+Christine Martinez
+Gail Colon
+Cedric Sutton
+Charlene Webber
+Walter Eggleston
+Christine Martinez
+Georg Sieland
+Christine Martinez
+Norman Pearson
+Colleen Haynes
+Georg Sieland
+Christine Martinez
+Christine Martinez
+Maggie Patton
+Vickie Ellis
+Christine Martinez
+Svetlana Brown
+Julia Smith
+Christine Martinez
+Lorenzo Steeves
+Christine Martinez
+Margot Flossi
+Steve Johnson
+Christine Martinez
+Georg Sieland
+Candace Green

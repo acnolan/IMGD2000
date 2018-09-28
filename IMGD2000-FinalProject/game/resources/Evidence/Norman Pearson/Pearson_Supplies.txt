@@ -1,0 +1,28 @@
+*NOTE: DRAFT, PRICES AND CONTENTS ARE MOSTLY ARBITRARY*
+depends:
+Norman Pearson
+
+header:
+CITIZEN: Pearson, Norman
+DATE: April 1, 1984
+
+TRASACTION RECEIPT
+content:
+--------------------------------
+Vendor: Wal-Mart
+Customer: Pearson, Norman
+--------------------------------
+Item		 Quantity		Cost
+--------------------------------
+Tin Foil			8	  $16.99
+Toilet Cleaner	    1	  $ 5.99
+Bottled Water Flats 5	  $10.99
+Ramen Noodles		9	  $12.99
+Flower Bouquet		1	  $16.99
+Jerky			    5	  $20.99
+
+--------------------------------
+Subtotal:				  $84.94
+Tax(0.05%):				  $ 4.25
+--------------------------------
+Total:				      $89.19

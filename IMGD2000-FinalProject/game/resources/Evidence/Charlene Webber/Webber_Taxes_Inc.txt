@@ -1,0 +1,18 @@
+*NOTE: DRAFT*
+depends:
+Charlene Webber
+
+header:
+CITIZEN: Webber, Charlene
+DATE: April 3, 1984
+
+TAX REPORT
+content:
+An inquiry about Webber was
+made at the Internal Revenue
+Service. The ensuing report
+indicated that Webber has
+been making minimum wage,
+although she also paid
+taxes for recieving tips
+from her workplace.

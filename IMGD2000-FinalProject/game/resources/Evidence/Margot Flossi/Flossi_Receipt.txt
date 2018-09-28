@@ -1,0 +1,23 @@
+depends:
+Margot Flossi
+
+header:
+CITIZEN: Flossi, Margot
+DATE: April 5, 1984
+
+TRANSACTION RECEIPT
+content:
+--------------------------------
+Vendor: Good Times Cruising
+Customer: Flossi, Margot
+----------------------------------------
+Item				 Quantity		Cost
+----------------------------------------
+Caribbean Cruise Tickets,
+Round-Trip					2 $19,990.98		
+
+----------------------------------------
+Subtotal:				 	  $19,990.98
+Tax(0.05%):				 		 $999.55
+----------------------------------------
+Total:				     	  $20,990.53

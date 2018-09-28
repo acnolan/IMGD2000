@@ -1,0 +1,47 @@
+*NOTE: DRAFT*
+depends:
+Georg Sieland
+
+header:
+CITIZEN: Sieland, Georg
+DATE: April 2, 1984
+
+PHONE TAP
+content:
+SIELAND:
+		Sylvia, it's me--
+		
+FEMALE:
+		What do you want, Georg?
+		
+SIELAND:
+		I wanted to see how you were
+		doing.
+		
+FEMALE:
+		Georg, it has been two years!
+		You need to stop calling me.
+		Find a girlfriend. Surely one
+		of those actresses you work
+		with find you passably
+		handsome.
+		
+SIELAND:
+		Have you seen my latest film?
+		
+FEMALE:
+		...Yes. I went to the
+		theater with John and Mikie.
+		
+SIELAND:
+		What did you think?
+		
+FEMALE:
+		It reeked of Communism and
+		thoroughly reminded me of
+		why we are no longer
+		together. Now, unless you
+		had something actually
+		important to tell me,
+		I have errands to run.
+		

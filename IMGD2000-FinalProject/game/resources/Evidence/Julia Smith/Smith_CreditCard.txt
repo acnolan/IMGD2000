@@ -1,0 +1,22 @@
+depends:
+Julia Smith
+
+header:
+CITIZEN: Smith, Julia
+DATE: April 3, 1984
+
+BILL REPORT
+content:
+--------------------------------
+Charges in the past month:
+GROCERY STORE			$  99.67
+BUENA VISTA AIRLINES 	$6599.98
+MOTEL 					$ 199.99
+GROCERY STORE 			$  34.94
+SAFE COMPANY 			$ 799.99
+PLUMBER 				$ 500.00
+SUPERMARKET 			$ 218.85
+--------------------------------
+Past Month's Balance:   $ 245.00
+--------------------------------
+Total Balance:			$8698.42

@@ -1,0 +1,35 @@
+depends:
+Lorenzo Steeves
+
+header:
+CITIZEN: Steeves, Lorenzo
+DATE: April 4, 1984
+
+PHONE TAP (INTERNATIONAL CALL)
+content:
+FEMALE:
+		Who is this?
+
+STEEVES:
+		Mama, it is I,
+		Lorenzo!
+		
+FEMALE:
+		Lorenzo! I wasn't expecting
+		to hear from you for another
+		week at least!
+
+STEEVES:
+		I have concocted a
+		magnificent plan for Papa's
+		birthday present! I will
+		try to send it as soon
+		as possible so that it
+		will arrive on time.
+		
+FEMALE:
+		He would be so pleased
+		by that! After the way
+		Isabella treated him last
+		week, he's been feeling
+		quite down.

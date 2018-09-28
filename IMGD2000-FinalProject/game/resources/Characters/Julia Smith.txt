@@ -1,0 +1,3 @@
+Occupation:Unemployed
+DOB:10 Jan 1954
+Marital Status:Single

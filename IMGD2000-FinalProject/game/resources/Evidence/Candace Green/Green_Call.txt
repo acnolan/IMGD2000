@@ -1,0 +1,34 @@
+depends:
+Candace Green
+
+header:
+CITIZEN: Green, Candace
+DATE: April 2, 1984
+
+PHONE TAP
+content:
+MALE:
+		Are you feeling prepared
+		for the tournament
+		tomorrow?
+		
+GREEN:
+		As much as I can be.
+		I had to get a new set
+		of clubs yesterday, and
+		haven't had much time
+		to practice with them.
+		
+MALE:
+		What happened to your
+		old set?
+		
+GREEN:
+		They broke.
+		
+MALE:
+		What? How?
+		
+GREEN:
+		That's none of your
+		business.

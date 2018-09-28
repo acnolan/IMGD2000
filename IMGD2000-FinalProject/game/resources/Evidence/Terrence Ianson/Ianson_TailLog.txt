@@ -1,0 +1,10 @@
+depends:
+Terrence Ianson
+
+header:
+CITIZEN: Ianson, Terrence
+DATE: April 4, 1984
+
+TRAIL LOG
+content:
+An investigator tailed Ianson to gain a better understanding of his daily routine. The citizen first took a run for 35:40 minutes around the blocks surrounding his apartment building. After returning to his apartment and reemerging fifteen minutes later with fresh clothes and damp hair, Ianson drove his vehicle to the Price-Deal Supermarket, where he proceeded to loiter in the aisles for two hours, and purchased only milk and flour.

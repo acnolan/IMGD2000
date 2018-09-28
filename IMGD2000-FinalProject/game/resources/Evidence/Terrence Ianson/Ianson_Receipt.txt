@@ -1,0 +1,25 @@
+depends:
+Terrence Ianson
+
+header:
+CITIZEN: Ianson, Terrence
+DATE: April 2, 1984
+
+TRANSACTION RECEIPT
+content:
+--------------------------------
+Vendor: Price-Deal Supermarket
+Customer: Ianson, Terrence
+----------------------------------------
+Item				 Quantity		Cost
+----------------------------------------
+Eggs, Dozen					1	  $ 8.99
+Confectioner's Sugar		2	  $11.98
+Sprinkles, Rainbow  		1	  $ 3.99
+Vanilla Extract				1	  $ 5.99
+
+----------------------------------------
+Subtotal:				 		  $30.95
+Tax(0.05%):				 		  $ 1.55
+----------------------------------------
+Total:				     		  $32.50

@@ -1,0 +1,55 @@
+depends:
+Walter Eggleston
+
+header:
+CITIZEN: Eggleston, Walter
+DATE: April 4, 1984
+
+PHONE TAP
+content:
+EGGLESTON:
+		Hi, Anne, this is Walter.
+		
+FEMALE:
+		Walter, hi! It's been
+		months! How have you
+		been holding up?
+
+EGGLESTON:
+		As well as can be expected.
+		Pretty average.
+		
+FEMALE:
+		You sound pretty excited
+		about something.
+		What's up?
+		
+EGGLESTON:
+		I was organizing
+		some of my stuff
+		and found all those
+		records you lent me
+		last year.
+		
+FEMALE:
+		Really? I was
+		wondering when you'd
+		admit that you lost them.
+		
+EGGLESTON:
+		Well, now I found them!
+		Want to meet up and 
+		I'll get them back
+		to you?
+		
+FEMALE:
+		That sounds great!
+		Sometime next week?
+		
+EGGLESTON:
+		I'm pretty busy
+		next week, how
+		about the week after?
+		
+FEMALE:
+		Sounds good!

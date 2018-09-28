@@ -1,0 +1,3 @@
+Occupation:Student
+DOB:26 October 1963
+Marital Status:Single

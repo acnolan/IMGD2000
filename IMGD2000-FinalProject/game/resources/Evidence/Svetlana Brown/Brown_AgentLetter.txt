@@ -1,0 +1,15 @@
+depends:
+Svetlana Brown
+Georg Sieland
+
+header:
+CITIZEN: Brown, Svetlana
+DATE: March 30, 1984
+
+INTERCEPTED LETTER
+content:
+Ted:
+
+I understand your concern, being my agent, but you can't deny that Georg's movies are popular. If he offers another role, I want to see it. My reputation is my concern. Just because people are using Georg and Communist in the same sentence behind closed doors doesn't mean anything to me.
+
+--Svetlana

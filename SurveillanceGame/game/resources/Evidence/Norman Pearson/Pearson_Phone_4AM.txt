@@ -1,0 +1,34 @@
+*NOTE: DRAFT*
+depends:
+Norman Pearson
+
+header:
+CITIZEN: Pearson, Norman
+DATE: April 3, 1984
+TIME: 4:00 AM
+PHONE TAP
+content:
+PEARSON:
+		Hello?
+
+FEMALE:
+		Hi, Norman, this is--
+		
+PEARSON:
+		SSSHHH! ... They're listening.
+		
+FEMALE:
+		It's four in the morning.
+		I highly doubt your neighbors
+		are awake.
+		
+PEARSON:
+		Not THEM, you fool!
+		
+FEMALE:
+		I'm updating you on--
+		
+PEARSON:
+		SSSHHH! I'll call you in
+		the morning. From
+		somewhere SAFE.

@@ -1,0 +1,25 @@
+depends:
+Walter Eggleston
+
+header:
+CITIZEN: Eggleston, Walter
+DATE: March 27, 1984
+
+TRANSACTION RECEIPT
+content:
+--------------------------------
+Vendor: Price-Deal Supermarket
+Customer: Eggleston, Walter
+--------------------------------
+Item		 Quantity		Cost
+--------------------------------
+Toilet Cleaner		1	  $ 5.99
+Bleach				1	  $10.99
+Plastic Gloves		2	  $ 8.98
+Bananas				3	  $ 2.99
+
+--------------------------------
+Subtotal:				  $28.95
+Tax(0.05%):				  $ 1.45
+--------------------------------
+Total:				      $30.40

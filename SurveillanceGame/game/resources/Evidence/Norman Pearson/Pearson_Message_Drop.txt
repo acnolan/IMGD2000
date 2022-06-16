@@ -1,0 +1,20 @@
+depends:
+Norman Pearson
+
+header:
+CITIZEN: Pearson, Norman
+DATE: April 3, 1984
+
+FIELD REPORT
+content:
+An agent tailing Mr. Pearson, in
+an attempt to determine any ill
+intent, was led around the same
+block three times, then around
+a few sharp curves. The agent
+lost Pearson's trail, and
+reported finding the following
+message on a scrap of paper
+where he lost Pearson:
+
+"I see you."

@@ -1,0 +1,17 @@
+*NOTE: DRAFT*
+depends:
+Julia Smith
+
+header:
+CITIZEN: Smith, Julia
+DATE: April 1, 1984
+
+TAX REPORT
+content:
+An inquiry about Smith was
+made at the Internal
+Revenue Service. The ensuing
+report indicated that Smith
+claims to be unemployed,
+and paid taxes only on her
+bank account interest.

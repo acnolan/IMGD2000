@@ -1,0 +1,65 @@
+*NOTE: DRAFT*
+depends:
+Georg Sieland
+
+header:
+CITIZEN: Sieland, Georg
+DATE: April 5, 1984
+
+PHONE TAP
+content:
+FEMALE:
+		Georg.
+
+SIELAND:
+		I thought you didn't want
+		to talk to me anymore.
+
+FEMALE:
+		You've been going behind
+		my back to talk to Mikie.
+	
+SIELAND:
+		I sent him letters in
+		the post. I assumed you
+		noticed.
+		
+FEMALE:
+		Mikie told me it was from
+		a school friend! Now he
+		won't stop asking me when
+		you might visit. What
+		thoughts have you been
+		putting in his head?
+		
+SIELAND:
+		It isn't fair to our son that
+		you prevent him from seeing
+		me when he clearly wants to!
+
+FEMALE:
+		Mikie is better off as far
+		from you as possible.
+		
+SIELAND:
+		Please let me visit. I won't
+		talk about politics. He
+		wants to show me
+		his bug collection.
+		
+FEMALE:
+		Ugh, that horrid thing...
+		I suppose your
+		correspondence has been
+		why he maintains that
+		bad habit as well?
+		
+SIELAND:
+		I won't talk politics.
+		
+FEMALE:
+		...I'll give you one chance, and
+		I'll be keeping a close ear on
+		you the entire time. This is
+		only to make Mikie happy,
+		you understand.

@@ -1,0 +1,12 @@
+depends:
+Walter Eggleston
+
+header:
+CITIZEN: Eggleston, Walter
+DATE: April 3, 1984
+
+INTERCEPTED LETTER
+content:
+We are ready.
+
+By this time next week, the deed will be done.

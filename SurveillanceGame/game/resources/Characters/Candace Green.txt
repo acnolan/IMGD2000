@@ -1,0 +1,3 @@
+Occupation:Accountant
+DOB:17 August 1960
+Marital Status:Single

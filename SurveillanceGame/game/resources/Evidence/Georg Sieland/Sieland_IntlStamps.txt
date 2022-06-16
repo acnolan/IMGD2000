@@ -1,0 +1,24 @@
+*NOTE: DRAFT*
+depends:
+Georg Sieland
+
+header:
+CITIZEN: Sieland, Georg
+DATE: March 29, 1984
+
+TRANSACTION RECEIPT
+content:
+--------------------------------
+Vendor: Post Office
+Customer: Sieland, Georg
+----------------------------------------
+Item				 Quantity		Cost
+----------------------------------------
+International
+Stamp Book					1	  $19.99
+
+----------------------------------------
+Subtotal:				 		  $19.99
+Tax(0.05%):				 		  $ 1.00
+----------------------------------------
+Total:				     		  $20.99

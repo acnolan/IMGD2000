@@ -1,0 +1,22 @@
+depends:
+Candace Green
+
+header:
+CITIZEN: Green, Candace
+DATE: April 1, 1984
+
+TRANSACTION RECEIPT
+content:
+--------------------------------
+Vendor: Got Drive, Inc.
+Customer: Green, Candace
+--------------------------------
+Item		 Quantity		Cost
+--------------------------------
+Golf Club Set		1	 $599.99
+
+--------------------------------
+Subtotal:				 $599.99
+Tax(0.05%):				 $ 30.00
+--------------------------------
+Total:				     $629.99

@@ -1,0 +1,14 @@
+*NOTE: DRAFT...NOTE 2: I DON'T KNOW MANY VARIETIES OF GUNS. THIS WILL BE FILLED IN MORE LATER.*
+depends:
+Norman Pearson
+
+header:
+CITIZEN: Pearson, Norman
+DATE: March 30, 1984
+
+POSSESSION RECORDS
+content:
+3 44 Magnum Handguns
+2 CZ-75 Handgun
+1 Czech-75 Handgun
+4 SPAS-12 Shotguns

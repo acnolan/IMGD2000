@@ -1,0 +1,34 @@
+depends:
+Svetlana Brown
+Georg Sieland
+
+header:
+CITIZEN: Brown, Svetlana
+DATE: April 2, 1984
+
+PHONE TAP
+content:
+BROWN:
+		Hello, is Georg available?
+				
+SIELAND:
+		Svetlana! What do you
+		need?
+		
+BROWN:
+		I was wondering if you
+		had any new plans in
+		the works with a role
+		for me.
+		
+SIELAND:
+		Really? I wouldn't
+		think you would be
+		interested given the
+		backlash from that
+		last film.
+		
+BROWN:
+		Backlash means it
+		was popular enough to
+		be noticed, right?

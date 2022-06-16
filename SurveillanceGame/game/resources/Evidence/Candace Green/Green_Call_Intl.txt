@@ -1,0 +1,39 @@
+depends:
+Candace Green
+
+header:
+CITIZEN: Green, Candace
+DATE: March 29, 1984
+
+PHONE TAP (INTERNATIONAL)
+content:
+GREEN:
+		Candace Green.
+		
+FEMALE:
+		Mmm...yes, I see
+		your name here. I'll
+		put Ivanov through.
+		
+MALE:
+		Green?
+		
+GREEN:
+		I've got it.
+		When can someone
+		come by to pick
+		it up?
+		
+MALE:
+		I'll have him
+		on a plane within
+		the hour, although
+		it will be a few days
+		before you should
+		make contact.
+		
+GREEN:
+		Of course.
+		
+MALE:
+		Good work, Green.

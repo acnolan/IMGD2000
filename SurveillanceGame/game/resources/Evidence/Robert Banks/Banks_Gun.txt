@@ -1,0 +1,23 @@
+depends:
+Robert Banks
+
+header:
+CITIZEN: Banks, Robert
+DATE: March 30, 1984
+
+TRASACTION RECEIPT
+content:
+--------------------------------
+Vendor: One More Shot, Inc.
+Customer: Banks, Robert
+--------------------------------
+Item		 Quantity		Cost
+--------------------------------
+Pistol				1	 $199.99
+Bullets			   19	  $19.99
+
+--------------------------------
+Subtotal:				 $219.98
+Tax(0.35%):				  $76.99
+--------------------------------
+Total:				     $296.97

@@ -1,0 +1,19 @@
+*NOTE: DRAFT*
+depends:
+Robert Banks
+
+header:
+CITIZEN: Banks, Robert
+DATE: March 24, 1984
+
+TRASACTION RECEIPT
+content:
+--------------------------------
+Vendor: Carz-b-Mine Dealership
+Customer: Banks, Robert
+--------------------------------
+Make: Insta-van 2000
+Model: Super-van
+Year: 1978
+Color: Baby Blue
+License Plate: IN0 CENT

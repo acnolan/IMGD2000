@@ -1,0 +1,21 @@
+depends:
+Norman Pearson
+
+header:
+CITIZEN: Pearson, Norman
+DATE: April 4, 1984
+
+FIELD REPORT
+content:
+A field agent was trailing
+Mr.Pearson, looking for
+any signs of suspicious
+behavior. Mr.Pearson began
+at his workplace, then drove
+in a winding path that
+often doubled-back on itself.
+At several points, the agent
+had to run red lights to keep
+Mr.Pearson in sight. Eventually,
+Mr.Pearson parked at a hospital
+and went inside.

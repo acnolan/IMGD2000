@@ -1,0 +1,12 @@
+header:
+EMPLOYEE: McDowell, Roland
+DATES: 4/1/1984 - 4/10-1984
+
+SURVEILLANCE REQUESTS
+content:
+Claudia Simmons
+Elsie Patton
+Terrence Ianson
+Paulette Ingram
+Walter Eggleston
+Byron Hale

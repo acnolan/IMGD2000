@@ -1,0 +1,24 @@
+depends:
+Steve Johnson
+
+header:
+CITIZEN: Johnson, Steve
+DATE: March 22, 1984
+
+TRANSACTION RECEIPT
+content:
+--------------------------------
+Vendor: Price-Deal Supermarket
+Customer: Johnson, Steve
+--------------------------------
+Item		 Quantity		Cost
+--------------------------------
+Flares				1	  $21.99
+Oil					2	  $15.99
+Toolkit				1	  $39.99
+
+--------------------------------
+Subtotal:				  $77.97
+Tax(0.05%):				  $ 3.90
+--------------------------------
+Total:				      $81.87

@@ -1,0 +1,29 @@
+*NOTE: DRAFT*
+depends:
+Julia Smith
+
+header:
+CITIZEN: Smith, Julia
+DATE: April 1, 1984
+
+PHONE TAP
+content:
+MALE:
+		Hello?
+
+SMITH:
+		Where's the beef? You told me
+		it would be here yesterday.
+		
+MALE:
+		J-Julia! We ran into some
+		problems farther up the line.
+		
+SMITH:
+		I have a line of people asking
+		and a credit card bill that
+		needs paying. Hurry up.
+		
+MALE:
+		We'll get the goods to you as
+		fast we can.

@@ -1,0 +1,16 @@
+depends:
+Margot Flossi
+
+header:
+CITIZEN: Flossi, Margot
+DATE: April 3, 1984
+
+INTERCEPTED LETTER
+content:
+Dear Gerard,
+You won't believe it. I have hit the jackpot...quite literally! Remember how we were joking over tea about winning the $3.5 million lottery? It happened! I'm so beside myself that I suppose I must be still a bit in shock!
+
+But it would feel criminal to keep it all to myself. Maybe we can split it somehow? Or perhaps we could both take off work and have some fun traveling...doesn't the Caribbean sound exciting? Let me know what you think!
+
+With love,
+Margot

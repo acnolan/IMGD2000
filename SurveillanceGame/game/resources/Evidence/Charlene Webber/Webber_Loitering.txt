@@ -1,0 +1,16 @@
+*NOTE: DRAFT*
+depends:
+Charlene Webber
+
+header:
+CITIZEN: Webber, Charlene
+DATE: April 2, 1984
+
+SURVEILLANCE REPORT
+content:
+The citizen in question has been reported and observed
+spending a lot of time around the Reel Fun Theater,
+usually pacing around the exterior and writing notes in a
+notebook. Occassionally she enters the building and
+attempts to enter corridors reserved for employees and workers.
+She is quickly expelled.

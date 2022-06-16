@@ -1,0 +1,23 @@
+header:
+EMPLOYEE: King, Wendy
+DATES: 4/1/1984 - 4/10-1984
+
+SURVEILLANCE REQUESTS
+content:
+Paulette Alexander
+Samuel Rogers
+Toni Dunn
+Lorenzo Steeves
+Terence Carter
+Donald Sullivan
+Candace Green
+Ruben King
+Herman Bennett
+Inez Padilla
+Charlene Webber
+Derrick Burns
+Matthew Vaughn
+Katherine Wong
+Candace Green
+Noel Bell
+Alberto Moran

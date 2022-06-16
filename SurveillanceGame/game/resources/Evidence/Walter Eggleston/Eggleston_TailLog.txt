@@ -1,0 +1,10 @@
+depends:
+Walter Eggleston
+
+header:
+CITIZEN: Eggleston, Walter
+DATE: April 2, 1984
+
+TRAIL LOG
+content:
+A field agent was trailing Mr. Eggleston, looking for any signs of suspicious behavior. Mr.Eggleston took a bike and rode to the Department of Motor Vehicles, circling the block for the next half hour. After that, Eggleston biked to a pay phone and made a call, although the agent was unable to overhear or tap the call.

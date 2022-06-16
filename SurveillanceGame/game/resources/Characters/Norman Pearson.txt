@@ -1,0 +1,3 @@
+Occupation:Bakery Owner
+DOB:23 August 1940
+Marital Status:Married

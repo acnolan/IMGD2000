@@ -1,0 +1,24 @@
+*NOTE: DRAFT*
+depends:
+Julia Smith
+
+header:
+CITIZEN: Smith, Julia
+DATE: April 2, 1984
+
+TRANSACTION RECIEPT
+content:
+--------------------------------
+Vendor: Buena Vista Airlines
+Customer: Smith, Julia
+--------------------------------
+Item		 Quantity		Cost
+--------------------------------
+Round-Trip Tickets	   $5,999.99
+To Carribean
+
+--------------------------------
+Subtotal:			   $5,999.99
+Tax(0.10%):			   $  599.99
+--------------------------------
+Total:				   $6,599.98

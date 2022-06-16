@@ -1,0 +1,43 @@
+depends:
+Terrence Ianson
+
+header:
+CITIZEN: Ianson, Terrence
+DATE: April 1, 1984
+
+PHONE TAP
+content:
+IANSON:
+		Hello?
+
+FEMALE:
+		Hello, customer! Our
+		pillows are the best sleep
+		you'll ever have, and for
+		the price of only--
+		
+IANSON:
+		Claudia, I know it's you.
+		What's up with the
+		different number?
+		
+FEMALE:
+		Duh, that's because I
+		used a pay phone. 
+		April Fools! I was
+		hoping you wouldn't
+		recognize me quite so
+		quickly.
+		
+IANSON:
+		It's a little hard not
+		to when you call me every
+		weekend.
+		
+FEMALE:
+		That's because I miss you!
+		Come home and visit soon,
+		promise?
+		
+IANSON:
+		...If I get time.
